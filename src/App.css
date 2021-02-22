@@ -1,0 +1,35 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  height: 300px;
+  width: 300px;
+  margin: auto;
+  margin-top: 2em;
+  padding: 1em;
+  border-radius: 10px;
+  border-style: groove;
+  border-color: goldenrod;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  margin: 1em auto;
+  text-align: center;
+  line-height: 2;
+}
+
+.sprite {
+  background-color: dimgray ;
+  border-radius: 50%;
+  padding: .8em;
+  margin: 1em;
+}
